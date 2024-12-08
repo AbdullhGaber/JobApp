@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JobApp</string>
+    <string name="remote_jobs_for_anyone_anywhere">Remote jobs for anyone anywhere</string>
+    <string name="thousands_of_jobs_find_your_job">Thousands of jobs, find your job</string>
+</resources>
